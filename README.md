@@ -1,7 +1,7 @@
 ### Hi there 👋## Oi, sou o João Pedro :wave:
  
 <br/> :man_technologist:  Desenvolvedor Java Full-Stack
-<br/>  :e_mail: Entre em contato comigo: 
+<br/>  :email: Entre em contato comigo: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-basaglia-batista-a3689b18b/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-basaglia-batista-a3689b18b/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&labelColor=violet&logo=instagram&logoColor=white&link=hhttps://www.instagram.com/jp_basaglia/?hl=pt-br)](https://www.instagram.com/jp_basaglia/?hl=pt-br) 
@@ -16,3 +16,4 @@
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+

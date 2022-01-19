@@ -1,5 +1,5 @@
 ## Olá, eu sou o João Pedro 👋 🤗
-<br/> :man_technologist:  Desenvolvedor Java Full-Stack
+<br/> :man_technologist:  Desenvolvedor Full-Stack
 <br/> :email: Entre em contato comigo: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-basaglia-batista-a3689b18b/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-basaglia-batista-a3689b18b/)

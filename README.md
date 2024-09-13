@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Pedro 👋 🤗
 <br/> :man_technologist:  Full Stack Developer
 <br/> :man_technologist:  Currently working at <a href="https://www.itau.com.br">Itaú Unibanco</a>
-<br/> :email: Contact me!: 
+<br/> :email: Contact me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-basaglia-batista-a3689b18b/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-basaglia-batista-a3689b18b/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&labelColor=violet&logo=instagram&logoColor=white&link=hhttps://www.instagram.com/jp_basaglia/?hl=pt-br)](https://www.instagram.com/jp_basaglia/?hl=pt-br) 
